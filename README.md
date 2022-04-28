@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nircafri/nircafri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Social banner](https://github.com/nircaf/nircaf/blob/main/Banner_neural_net.gif)](https://nircaf.com)
-<h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Nir.
+Data scientist profficient at neuroscience & bio-feedbacks
 </p>
 <p align='center'>For enquiries, reach out <a href = "mailto: nircaf@gmail.com">Send Email</a> 
   or over on <a href="https://www.linkedin.com/in/nircaf/">Linkedin</a>.</p>
