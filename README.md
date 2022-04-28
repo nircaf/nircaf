@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Social banner](https://github.com/nircaf/nircaf/blob/main/Banner%201000X350.gif)](https://nircaf.com)
+[![Social banner](https://github.com/nircaf/nircaf/blob/main/Banner%20SpeedLink.gif)](https://nircaf.com)
 <p align='center'>
 I'm Nir.
 Data scientist profficient at neuroscience & bio-feedbacks
