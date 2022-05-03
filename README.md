@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 [![Social banner](https://github.com/nircaf/nircaf/blob/main/Banner%20SpeedLink.gif)](https://nircaf.com)
 <p align='center'>
 I'm Nir.
-Data scientist profficient at neuroscience & bio-feedbacks
+Data scientist proficient at neuroscience & bio-feedbacks
 </p>
 <p align='center'>For enquiries, reach out <a href = "mailto: nircaf@gmail.com">Send Email</a> 
   or over on <a href="https://www.linkedin.com/in/nircaf/">Linkedin</a>.</p>
