@@ -1,23 +1,30 @@
-<!--
-**nircafri/nircafri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![Social banner](https://github.com/nircaf/nircaf/blob/main/Banner%20SpeedLink.gif)](https://nircaf.com)
-<p align='center'>
-I'm Nir.
-Data scientist proficient at neuroscience & bio-feedbacks
-</p>
-<p align='center'>For enquiries, reach out <a href = "mailto: nircaf@gmail.com">Send Email</a> 
-  or over on <a href="https://www.linkedin.com/in/nircaf/">Linkedin</a>.</p>
 
-<h1 align='center'><i>Thanks!</i></h1>
+<h1 align="center">Hi, I'm Nir 👋</h1>
+
+<p align="center">
+  Data scientist focused on <strong>neuroscience</strong>, <strong>biofeedback</strong>, and practical AI systems.
+</p>
+
+<p align="center">
+  I build products and experiments that connect data, behavior, and real-world outcomes.
+</p>
+
+---
+
+## What I work on
+
+- 🧠 Applied neuroscience and cognitive-performance workflows
+- 📊 Data science, modeling, and decision systems
+- 🤖 Automation and AI-enabled product pipelines
+- 🧪 Rapid prototyping from idea to deployed experience
+
+## Connect
+
+- 🌐 Website: [nircaf.com](https://nircaf.com)
+- 💼 LinkedIn: [linkedin.com/in/nircaf](https://www.linkedin.com/in/nircaf/)
+- 📫 Email: [nircaf@gmail.com](mailto:nircaf@gmail.com)
+
+---
+
+<p align="center"><i>Thanks for stopping by.</i></p>
