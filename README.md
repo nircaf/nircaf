@@ -185,27 +185,35 @@ I'm a **Neuroscientist** and **Data Scientist** working at the intersection of n
 
 <table>
   <tr>
-    <td>
+    <td align="center" width="50%">
       <a href="https://github.com/nircaf/eeg_dashboard">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nircaf&repo=eeg_dashboard&theme=tokyonight&bg_color=0d1117&title_color=00c8ff&text_color=c9d1d9&border_color=21262d&icon_color=00c8ff" alt="eeg_dashboard"/>
       </a>
+      <br/>
+      <sub>Streamlit dashboard for EDF/EEG file analysis — signal quality assessment, artifact detection, frequency band analysis, PSD visualization, and MNE-Python integration. Runs locally with interactive controls and CSV export.</sub>
     </td>
-    <td>
+    <td align="center" width="50%">
       <a href="https://github.com/nircaf/BBB">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nircaf&repo=BBB&theme=tokyonight&bg_color=0d1117&title_color=00c8ff&text_color=c9d1d9&border_color=21262d&icon_color=00c8ff" alt="BBB"/>
       </a>
+      <br/>
+      <sub>Open data and analysis pipeline for the 2025 <em>Epilepsia</em> publication on blood-brain barrier dysfunction in drug-resistant epilepsy. Includes EEG analysis, PSWE quantification under Losartan treatment, and multi-center clinical data.</sub>
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center" width="50%">
       <a href="https://github.com/nircaf/TalkToMe">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nircaf&repo=TalkToMe&theme=tokyonight&bg_color=0d1117&title_color=00c8ff&text_color=c9d1d9&border_color=21262d&icon_color=00c8ff" alt="TalkToMe"/>
       </a>
+      <br/>
+      <sub>Local real-time voice assistant pipeline: microphone → noise reduction → Whisper large-v3-turbo transcription → LLM response → TTS playback. No cloud API required; GPU-accelerated with CPU fallback.</sub>
     </td>
-    <td>
+    <td align="center" width="50%">
       <a href="https://github.com/nircaf/Presently">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nircaf&repo=Presently&theme=tokyonight&bg_color=0d1117&title_color=00c8ff&text_color=c9d1d9&border_color=21262d&icon_color=00c8ff" alt="Presently"/>
       </a>
+      <br/>
+      <sub>Neuroscience-informed mental wellness app. Translates research on attention regulation, emotion processing, and biofeedback into daily mindfulness tools — with planned EEG biofeedback integration via eeg_dashboard.</sub>
     </td>
   </tr>
 </table>
